@@ -5,7 +5,7 @@
         backendUrl: "https://your-backend-url.com", // Your chatbot backend
         iconUrl: "./DotGen Logo.png", // Chat icon URL
         popupTitle: "College Assistant", // Popup Title
-        iframeUrl: "https://web-chat-app-ebon.vercel.app/", // Chatbot iframe
+        iframeUrl: "http://13.201.78.220:5000/", // Chatbot iframe
         styles: {
             position: "fixed",
             bottom: "20px",
