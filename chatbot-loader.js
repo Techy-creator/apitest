@@ -3,7 +3,7 @@
     const botConfig = {
         botId: "cm2g51wzj2i0kn8bkqdvvnyx9", // Bot ID
         backendUrl: "https://your-backend-url.com", // Your chatbot backend
-        iconUrl: "./village canopy_logo.png", // Chat icon URL
+        iconUrl: "./DotGen Logo.png", // Chat icon URL
         popupTitle: "College Assistant", // Popup Title
         iframeUrl: "https://web-chat-app-ebon.vercel.app/", // Chatbot iframe
         styles: {
