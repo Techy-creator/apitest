@@ -12,6 +12,7 @@
             right: "20px",
             width: "60px",
             height: "60px",
+            backgroundColor: "#007bff",
             borderRadius: "50%",
             boxShadow: "0 4px 6px rgba(0, 0, 0, 0.1)",
             cursor: "pointer",
